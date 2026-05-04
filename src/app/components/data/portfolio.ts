@@ -5,6 +5,7 @@ export const projects = [
     description:
       "Built an AI-driven recruiter dashboard enabling resume analysis and real-time compatibility scoring for faster hiring workflows.",
     stack: "React · Next.js · TypeScript · Firebase",
+    link: "https://www.jobformautomator.com/hr/resumeUpload"
   },
   {
     id: "02",
@@ -12,6 +13,7 @@ export const projects = [
     description:
       "Designed scalable search workflows with AI matching and advanced filtering for candidate discovery.",
     stack: "React · Next.js · TypeScript",
+    link: "https://www.jobformautomator.com/hr/talent_pool/dashboard"
   },
   {
     id: "03",
@@ -19,6 +21,7 @@ export const projects = [
     description:
       "Automated system generating formatted A4 question papers with consistent layout and one-click PDF export.",
     stack: "React · Node.js · PDF Rendering",
+    link: "#"
   },
 ];
 
