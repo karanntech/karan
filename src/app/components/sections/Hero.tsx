@@ -33,7 +33,7 @@ export default function Hero() {
             Explore Work
           </a>
           <a
-            href="https://drive.google.com/file/d/1eSZtz_ZHE2eIj93niKRtvUX2NpdH3Wd_/view?usp=sharing"
+            href="https://drive.google.com/file/d/1KkMULWARktWn2DdVjTw-PqxHr58PqJM5/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
             className="px-7 py-3 border border-neutral-700 rounded-full hover:border-neutral-400 transition"
